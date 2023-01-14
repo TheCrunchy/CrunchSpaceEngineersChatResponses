@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<PluginManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>CrunchSpaceEngineersChatResponses</Name>
+  <Guid>ecc3640d-c96d-42ec-b9ab-4d90b1580cc5</Guid>
+  <Version>v1.1</Version>
+</PluginManifest>
